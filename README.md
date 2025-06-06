@@ -68,6 +68,7 @@ Screenshots from OpenSearch Dashboards confirm:
 - Log ingestion from `/var/log/soc_tickets.log`
 - Proper decoder and rule matching
 - Alerts triggering with correct field mapping
+![Image](https://github.com/user-attachments/assets/bf6157d6-e116-432b-a54e-e036a4ae993e)
 
 ---
 
