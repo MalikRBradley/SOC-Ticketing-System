@@ -25,6 +25,7 @@ Design and build a ticketing system that integrates seamlessly into a SIEM workf
   - Status (INFO)
   - Action (`New Ticket Created`, `Ticket Updated`, etc.)
   - Ticket metadata (e.g. title, priority, source)
+![Image](https://github.com/user-attachments/assets/7ebf0026-397c-457d-9aa7-27474f40058d)
 
 **Example Log:**
 ```
