@@ -44,7 +44,7 @@ Design and build a ticketing system that integrates seamlessly into a SIEM workf
   - `group`: `soc-ticketing`
 
 ### 4. Log Verification & Testing
-
+![Image](https://github.com/user-attachments/assets/6c032647-8b4c-4f4e-b114-f8f14c2eb731)
 - Restarted Wazuh manager and tailed `ossec.log` to verify ingestion
 - Successfully created and updated tickets through Flask app
 - Confirmed Wazuh alerts:
